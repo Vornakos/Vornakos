@@ -1,16 +1,49 @@
-## Hi there 👋
+<h2 align="left">Hey! 👋</h2>
+<h3 align="left">Software Development & Cybersecurity Student | Greece</h3>
 
-<!--
-**Vornakos/Vornakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  I am an Undergraduate student with a focus on <strong>software development</strong> and <strong>cybersecurity</strong>. My main areas of interest include:
+</p>
 
-Here are some ideas to get you started:
+<ul align="left">
+  <li>Software Development & Programming</li>
+  <li>Cybersecurity & Ethical Hacking</li>
+  <li>Hands-on Projects & Problem-Solving</li>
+  <li>Continuous Learning & Emerging Technologies</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Technical Skills</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github" />
+</div>
+
+
+<h3 align="left">Connect With Me</h3>
+
+<div align="left">
+  <a href="https://github.com/Vornakos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+  <a href="https://tryhackme.com/p/Vornakos" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-FF6600?style=for-the-badge&logo=tryhackme&logoColor=white" height="30" />
+  </a>
+  <a href="https://app.hackthebox.com/users/2317501" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" height="30" />
+  </a>
+  <a href="https://www.youtube.com/@VornakosYT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
+  </a>
+  <a href="https://x.com/Vornakos" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
+  </a>
+  <a href="https://vornakos.gitbook.io/vornakos/b7wj7RCyxWrDuYxnCce1/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-4A90E2?style=for-the-badge&logo=gitbook&logoColor=white" height="30" />
+  </a>
+</div>
