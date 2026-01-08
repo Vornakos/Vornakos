@@ -34,7 +34,7 @@
 
 <h3 align="left">Stats: Github</h3>
 
-[![Vornakos' GitHub stats](https://github-readme-stats.vercel.app/api?username=vornakos)](https://github.com/anuraghazra/github-readme-stats)
+[![Vornakos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vornakos)](https://github.com/Vornakos)
 
 
 
