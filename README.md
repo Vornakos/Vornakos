@@ -1,4 +1,4 @@
-<h2 align="left">Hey! 👋</h2>
+<h2 align="left">Hey! Vornakos Here👋</h2>
 <h3 align="left">Software Development & Cybersecurity Student | Greece</h3>
 
 <p align="left">
@@ -28,15 +28,9 @@
 
 <!-- Static Badges -->
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Vornakos.png" alt="Your Image Badge" />
-  <img src="https://www.hackthebox.eu/badge/image/2317501" alt="Hack The Box Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Vornakos.png" alt="TryHackMe Badge" height="80" width="250" />
+  <img src="https://www.hackthebox.eu/badge/image/2317501" alt="Hack The Box Badge" height="80" width="250"/>
 </p>
-
-<h3 align="left">Stats: Github</h3>
-
-[![Vornakos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vornakos)](https://github.com/Vornakos)
-
-
 
 
 <h3 align="left">Connect With Me</h3>
