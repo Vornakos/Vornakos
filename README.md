@@ -24,6 +24,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github" />
 </div>
 
+<h3 align="left">Stats: Cybersecurity</h3>
+
+<!-- Static Badges -->
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Vornakos.png" alt="Your Image Badge" />
+  <img src="https://www.hackthebox.eu/badge/image/2317501" alt="Hack The Box Badge" />
+</p>
+
+<h3 align="left">Stats: Github</h3>
+
+[![Vornakos' GitHub stats](https://github-readme-stats.vercel.app/api?username=vornakos)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <h3 align="left">Connect With Me</h3>
 
