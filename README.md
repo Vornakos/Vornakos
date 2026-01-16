@@ -7,24 +7,33 @@
   I am an Undergraduate student with a focus on <strong>software development</strong> and <strong>cybersecurity</strong>. My main areas of interest include:
 </p>
 
-<ul align="left">
-  <li>Software Development & Programming</li>
-  <li>Cybersecurity & Ethical Hacking</li>
-  <li>Hands-on Projects & Problem-Solving</li>
-  <li>Continuous Learning & Emerging Technologies</li>
-</ul>
 
-<h3 align="left">Technical Skills</h3>
+## 👨‍💻 About Me
+I’m a **2nd-year BSc Computing student**.  
+Passionate about **Cybersecurity and Programming.**.  
+Always exploring new technologies and improving my skills!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github" />
-</div>
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Cybersecurity
+-
+
+---
+
+
+> “Started with curiosity, driven by passion, growing through dedication.”
 
 <h3 align="left">Stats: Cybersecurity</h3>
 
